@@ -1,68 +1,64 @@
 window.PortfolioConfig = {
-  name: 'Swaroop Bangera',
-  jobTitle: 'Full-stack Web Developer',
-  jobDescription: 'Sit quis in tempor quis. Nisi ex exercitation in irure. Reprehenderit sint aliqua et dolore enim laboris dolore exercitation magna aliqua ex ad.',
+  name: 'Swaroop Bangera, PMP',
+  jobTitle: 'Certified Project Management Professional (PMP)',
+  jobDescription: 'Certified Project Management Professional (PMP) with 8+ years of experience leading complex, mission-critical projects in technical, PMO, and service delivery environments. Expert in project planning, cost and risk management, stakeholder engagement, and process automation.',
   skills: [
     {
-      name: 'JavaScript',
-      description: 'Reprehenderit mollit id ad veniam.'
+      name: 'Project Management',
+      description: 'Expert in project planning, cost and risk management, stakeholder engagement, and process automation.'
     },
     {
-      name: 'HTML',
-      description: 'Fugiat veniam esse consequat quis cillum elit consequat Lorem pariatur ipsum veniam irure incididunt non.'
+      name: 'Agile & Scrum',
+      description: 'Experienced in Agile and Scrum methodologies for project delivery.'
     },
     {
-      name: 'CSS',
-      description: 'Elit tempor mollit consectetur laborum nostrud qui in.'
+      name: 'Vendor Management',
+      description: 'Skilled in managing vendors and contracts.'
     }
   ],
   works: [
     {
-      name: 'Vue Stripe Checkout',
-      link: 'https://jofftiquez.github.io/vue-stripe-checkout',
-      description: 'Mollit dolor tempor adipisicing non pariatur in tempor cillum do. In officia ullamco laborum ullamco voluptate. Laboris sunt quis enim Lorem laboris aliquip duis non magna excepteur voluptate. Pariatur velit aliquip officia nulla anim reprehenderit deserunt. Sint nostrud ipsum do aliquip.'
+      name: 'Apple Maps Project',
+      link: '#',
+      description: 'Led technical project management for a large-scale GIS program, overseeing end-to-end project planning, design integration, and operational delivery.'
     },
     {
-      name: 'ToDo App',
-      link: 'https://theuselessweb.com/',
-      description: 'Esse magna anim incididunt enim sint aute consectetur ipsum id nostrud eu do. Pariatur et anim enim aliquip anim. Laboris labore incididunt labore enim nisi elit excepteur deserunt irure exercitation exercitation. Lorem sit ad laborum sit velit veniam sit nisi nostrud occaecat duis nulla duis.'
+      name: 'HERE Maps Project',
+      link: '#',
+      description: 'Managed a 100+ member team in a design-build-like environment, overseeing project planning, resource allocation, and quality assurance for geospatial data operations.'
     },
     {
-      name: 'A Mobile Game',
-      link: 'https://theuselessweb.com/',
-      description: 'Incididunt non cupidatat deserunt ut commodo qui non do Lorem. Qui aute minim enim sit magna est consectetur incididunt. Ex est cupidatat tempor pariatur deserunt labore tempor minim laboris magna ipsum minim ea ea. Consectetur do anim laboris nulla nisi veniam sint qui.'
+      name: 'Titan and Zudio Projects',
+      link: '#',
+      description: 'Facilitated project planning and agile ceremonies, improving on-time delivery by 20%.'
     }
   ],
   hobbies: [
     {
-      name: 'Rock Climbing',
-      description: 'Occaecat ipsum dolor ea ad ut irure do proident excepteur consectetur duis eu culpa velit.'
+      name: 'Reading',
+      description: 'Enjoy reading books on project management and technology.'
     },
     {
-      name: 'Surfing',
-      description: 'Laboris occaecat adipisicing culpa duis aute ea excepteur quis eiusmod mollit est pariatur.'
+      name: 'Traveling',
+      description: 'Exploring new places and cultures.'
     },
     {
-      name: 'Rubick\'s Cube',
-      description: 'Laborum pariatur sint labore officia enim occaecat id.'
+      name: 'Photography',
+      description: 'Capturing moments through photography.'
     }
   ],
   contacts: {
-    email: 'john.doe@gmail.com',
-    mobileNo: '+639171234567',
-    phoneNo: '+12 345 6789',
+    email: 'swaroop1110@gmail.com',
+    mobileNo: '+91 9920996958',
+    phoneNo: '',
     links: [
       {
+        name: 'LinkedIn',
+        link: 'https://linkedin.com/in/swaroopbangera'
+      },
+      {
         name: 'GitHub',
-        link: 'https://github.com/jofftiquez'
-      },
-      {
-        name: 'Facebook',
-        link: 'https://facebook.com/jofftiquez'
-      },
-      {
-        name: 'Twitter',
-        link: 'https://twitter.com/jrtiquez'
+        link: 'https://github.com/swaroopbangera'
       }
     ]
   }
