@@ -1,7 +1,7 @@
 window.PortfolioConfig = {
-  name: 'Swaroop Bangera, PMP',
-  jobTitle: 'Certified Project Management Professional (PMP)',
-  jobDescription: 'Certified Project Management Professional (PMP) with 8+ years of experience leading complex, mission-critical projects in technical, PMO, and service delivery environments. Expert in project planning, cost and risk management, stakeholder engagement, and process automation.',
+  name: 'Swaroop Bangera',
+  jobTitle: 'Certified Project Management Professional (PMP®)',
+  jobDescription: 'Certified Project Management Professional (PMP®) with 8+ years of experience leading complex, mission-critical projects in technical, PMO, and service delivery environments. Expert in project planning, cost and risk management, stakeholder engagement, and process automation.',
   skills: [
     {
       name: 'Project Management',
