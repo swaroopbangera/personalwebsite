@@ -1,5 +1,5 @@
 window.PorfolioConfig = {
-  name: 'John Doe',
+  name: 'Swaroop Bangera',
   jobTitle: 'Full-stack Web Developer',
   jobDescription: 'Sit quis in tempor quis. Nisi ex exercitation in irure. Reprehenderit sint aliqua et dolore enim laboris dolore exercitation magna aliqua ex ad.',
   skills: [
